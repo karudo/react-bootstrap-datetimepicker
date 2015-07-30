@@ -7,7 +7,7 @@
     "type": "git",
     "url": "http://github.com/quri/react-bootstrap-datetimepicker"
   },
-  "main": "./src/DateTimeField.js",
+  "main": "./lib/DateTimeField.js",
   "keywords": [
     "react",
     "react-component",
@@ -16,5 +16,5 @@
     "datetime"
   ],
   "author": "Loïc CHOLLIER <loic@chollier.com>",
-  "license": "MIT"
+  "license": "MIT",
 }
