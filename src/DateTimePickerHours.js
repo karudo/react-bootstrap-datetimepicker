@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from "react";
-import { Glyphicon } from "react-bootstrap";
+import Glyphicon from 'react-bootstrap/lib/Glyphicon';
 import Constants from "./Constants.js";
 
 export default class DateTimePickerHours extends Component {
